@@ -3,16 +3,16 @@
 language-system = システム
 language-group = 言語
 language-label = 表示言語
-language-description = セレインの言語を選択してください。 Discord のコンテンツは翻訳されません。
+language-description = Sereinの言語を選択します。 Discord のコンテンツは翻訳されません。
 section-user = ユーザー設定
 section-app = アプリの設定
 section-customization = カスタマイズ
 page-account = 私のアカウント
 page-profile = プロフィール
-page-general = 一般的な
+page-general = 一般
 page-appearance = 外観
 page-chat = チャット
-page-messaging-permissions = メッセージング権限
+page-messaging-permissions = メッセージの権限
 page-notifications = 通知
 page-registered-games = 登録済みのゲーム
 page-voice = 音声とビデオ
@@ -30,16 +30,16 @@ description-messaging-permissions = 誰があなたに連絡できるか、そ�
 description-notifications = 受信する通知とその表示方法を選択します。
 description-registered-games = プレイ中のゲームを共有し、Serein が検出したゲームを修正・追加します。
 description-voice = マイク、スピーカー、カメラ、音声処理。
-description-keybinds = セレインのキーボード ショートカット。
+description-keybinds = Sereinのキーボード ショートカット。
 description-storage = Serein がこのデバイスに保存しているもの。
-description-updates = このデバイスで Serein を常に最新の状態に保ってください。
+description-updates = このデバイスで Serein を常に最新の状態に保つ。
 description-extensions = コミュニティプラグインを管理します。
 description-themes = コミュニティのテーマを選択します。
 theme-maker = テーマメーカー
 theme-maker-description = それをあなたのものにしてください。会話の変更をプレビューします。
 search = 検索
 no-settings-found = 設定が見つかりません
-search-suggestion = テーマ、通知、音声、キャッシュを試してください。
+search-suggestion = テーマ、通知、音声、キャッシュを試す。
 exit-preview = プレビューを終了する
 log-out = ログアウト
 unofficial = 非公式・Discordによって承認されていません
@@ -47,39 +47,39 @@ offline-preview = オフライン プレビュー · 変更はこのセッショ
 general-startup = 起動する
 general-open-at-startup = コンピュータの起動時に Serein を開きます
 general-open-at-startup-description = Serein がサインインし、バックグラウンドで接続します。
-general-start-minimized = 最小化して開始
+general-start-minimized = 最小化して起動
 general-start-minimized-description = 邪魔にならないバックグラウンドで開始します。
 general-startup-unavailable = 自動起動は Windows と macOS で利用できます。
 general-window = ウィンドウ
 general-hide-decorations = ウィンドウの装飾を隠す
 general-hide-decorations-description = システムのタイトルバーと境界線を削除します。ウィンドウ マネージャーを使用して、Serein を移動、サイズ変更、または閉じます。
-general-hide-title-bar = セレインのタイトルバーを非表示にする
+general-hide-title-bar = Sereinのタイトルバーを非表示にする
 general-hide-title-bar-description = 代わりに、システムのタイトル バーとウィンドウ ボタンを使用してください。
-general-keep-menu-bar = セレインをメニューバーに置いておく
-general-keep-system-tray = Serein をシステム トレイに入れておきます
-general-menu-bar-description = ウィンドウを閉じると、Serein がメニュー バーに表示されたままになります。終了するにはメニューから終了してください。
-general-linux-tray-description = クロージングによりセレインは継続します。トレイを使用して、表示、最小化、または終了します。
-general-windows-tray-description = ウィンドウを閉じると、Serein が通知領域に表示されたままになります。終了するにはメニューから終了してください。
+general-keep-menu-bar = Sereinをメニューバーに置いておく
+general-keep-system-tray = Serein をシステムトレイに最小化
+general-menu-bar-description = ウィンドウを閉じると、Serein がメニュー バーに表示されたままになります。終了するにはメニューから終了します。
+general-linux-tray-description = クロージングによりSereinは継続します。トレイを使用して、表示、最小化、または終了します。
+general-windows-tray-description = ウィンドウを閉じると、Serein が通知領域に表示されたままになります。終了するにはメニューから終了します。
 general-tray-unavailable = このプラットフォームではトレイを使用できません。
 general-graphics = グラフィックス
-general-render-with = でレンダリング
-general-gpu-restart = 次回セレイン起動時に有効となります。
-general-gpu-current-prefix = 現在絵を描いているのは
+general-render-with = レンダリング方法
+general-gpu-restart = 次回Serein起動時に有効となります。
+general-gpu-current-prefix = 現在描画していているのは
 gpu-automatic = 自動
 gpu-high-performance = 高性能
 gpu-power-saving = 省電力
-gpu-automatic-description = Serein にこのウィンドウを描画できる GPU を選択させます。
-gpu-high-performance-description = 専用グラフィックス カードが利用可能な場合は、それを使用してください。
+gpu-automatic-description = Serein にこのウィンドウを描画させる GPU を選択させます。
+gpu-high-performance-description = 専用グラフィックス カードが利用可能な場合は、それを使用する。
 gpu-power-saving-description = 内蔵グラフィックスを使用してバッテリーを節約します。
 direct-messages = ダイレクトメッセージ
 find-conversation = 会話を見つける
 find-conversation-tooltip = ロードされた会話を検索 (Ctrl/Cmd+K)
-friends = 友達
+friends = フレンド
 members = メンバー
 retry-shortcuts = ショートカットを再試行する
 profile-and-status = プロフィールとステータス
 user-settings = ユーザー設定
-your-account = あなたのアカウント
+your-account = アカウント
 reconnecting = 再接続中…
 hide-chat = チャットを非表示にする
 show-chat = チャットを表示する
@@ -102,8 +102,8 @@ no-people = この景色を求めて戻ってきた人はいませんでした�
 status-online = オンライン
 status-offline = オフライン
 status-idle = 退席中
-status-dnd = 邪魔しないでください
-role = 役割
+status-dnd = 取り込み中
+role = ロール
 no-conversations = ここでは会話ができません。
 open-in-discord = Discordで開く
 new = 新しい
@@ -115,45 +115,45 @@ friends-online = オンライン
 friends-all = 全て
 friends-pending = 保留中
 friends-blocked-ignored = ブロックされ無視されました
-friends-add = 友達を追加
+friends-add = フレンドを追加
 friends-search = 検索
-friends-add-description = Discordのユーザー名を使用して友達を追加できます。
+friends-add-description = Discordのユーザー名を使用してフレンドを追加できます。
 friends-username = ユーザー名
 friends-enter-username = ユーザー名を入力してください
 friends-sending = 送信中…
-friends-send-request = 友達リクエストを送る
-friends-reconnect = 友達リクエストを送信する前に再接続してください。
+friends-send-request = フレンド申請を送る
+friends-reconnect = フレンド申請を送信する前に再接続してください。
 friends-notes-unsupported = パーソナライズされたリクエストのメモはまだサポートされていません。
-friends-other-places = 友達を作るその他の場所
+friends-other-places = フレンドを作るその他の場所
 friends-discover-description = Don't have a username? Discord で公開コミュニティを見つけてください。
 friends-explore-servers = 検出可能なサーバーを探索する ↗
 friends-incoming = 着信
 friends-outgoing = 発信
 friends-search-requests = 検索リクエスト
-friends-requests-unavailable = 友達リクエストはまだ受け付けていません。
+friends-requests-unavailable = フレンド申請はまだ受け付けていません。
 friends-no-request-search = 検索に一致するリクエストはありません。
-friends-no-outgoing = 送信友達リクエストはありません。
-friends-no-incoming = 友達リクエストは来ません。
+friends-no-outgoing = 送信フレンド申請はありません。
+friends-no-incoming = フレンド申請は来ません。
 friends-new-requests = 新しいリクエストがここに表示されます。
 friends-try-different = 別の名前またはユーザー名を試してください。
-friends-incoming-request = 友達リクエストの受信
-friends-outgoing-request = 友達リクエストの送信
+friends-incoming-request = フレンド申請の受信
+friends-outgoing-request = フレンド申請の送信
 friends-accept-request = リクエストを受け入れる
 friends-decline-request = リクエストを拒否する
 friends-cancel-request = リクエストのキャンセル
-friends-dismiss-warning = 友達ステータスの警告を無視する
-friends-status-warning = 一部の友達のオンライン ステータスとアクティビティを読み込むことができませんでした。オンライン リストは不完全である可能性があります。
-friends-all-heading = 友達全員
+friends-dismiss-warning = フレンドステータスの警告を無視する
+friends-status-warning = 一部のフレンドのオンライン ステータスとアクティビティを読み込むことができませんでした。オンライン リストは不完全である可能性があります。
+friends-all-heading = フレンド全員
 friends-blocked-heading = ブロックされ無視されました
 friends-blocked-unavailable = ブロックおよび無視されたユーザーはまだ利用できません。
-friends-unavailable = 友達はまだ利用できません。
+friends-unavailable = フレンドはまだ利用できません。
 friends-no-blocked-search = 検索に一致するブロックまたは無視されたユーザーはありません。
-friends-no-search = 検索に一致する友達はいません。
+friends-no-search = 検索に一致するフレンドはいません。
 friends-no-blocked = ブロックまたは無視されたユーザーはいません。
-friends-none-yet = まだ友達がいません。
-friends-none-online = 現在オンラインの友達はいません。
+friends-none-yet = まだフレンドがいません。
+friends-none-online = 現在オンラインのフレンドはいません。
 friends-blocked-help = ブロックまたは無視した人がここに表示されます。
-friends-add-help = 「友達を追加」タブからユーザー名で友達を追加します。
+friends-add-help = 「フレンドを追加」タブからユーザー名でフレンドを追加します。
 friends-ignored = 無視されました
 friends-blocked = ブロックされました
 friends-presence-unavailable = プレゼンスが利用できません
@@ -173,7 +173,7 @@ account-badge-bot = ボット
 # Context: name
 account-badge-bot-description = ボットアカウント
 # Context: name
-account-badge-webhook = ウェブフック
+account-badge-webhook = Webhook
 # Context: name
 account-badge-webhook-description = Webhook 作成者
 
@@ -193,7 +193,7 @@ account-menu-account-switcher-add-an-account = アカウントを追加する
 # Context: account_switcher_row
 account-menu-account-switcher-row-forget = 忘れる
 # Context: account_switcher_row
-account-menu-account-switcher-row-forget-this-account-on-this-device = このデバイス上のこのアカウントを忘れてください
+account-menu-account-switcher-row-forget-this-account-on-this-device = このデバイス上のこのアカウントを忘れる
 # Context: account_switcher_row
 account-menu-account-switcher-row-switch-to = に切り替えます
 # Context: account_switcher
@@ -213,7 +213,7 @@ account-menu-custom-status-editor-clear-after = 後クリア
 # Context: custom_status_editor
 account-menu-custom-status-editor-no-custom-status = カスタムステータスなし
 # Context: custom_status_editor
-account-menu-custom-status-editor-serein-clears-it = セレインがクリアする
+account-menu-custom-status-editor-serein-clears-it = Sereinがクリアする
 # Context: custom_status_editor
 account-menu-custom-status-editor-status-text = ステータステキスト
 # Context: custom_status_editor
@@ -372,7 +372,7 @@ categories-paint-shelf-rule-stage-channel-not-implemented = ステージチャ�
 # Context: paint_shelf_rule
 categories-paint-shelf-rule-text-channel = テキストチャンネル
 # Context: paint_shelf_rule
-categories-paint-shelf-rule-thread = 糸
+categories-paint-shelf-rule-thread = スレッド
 # Context: paint_shelf_rule
 categories-paint-shelf-rule-unknown-channel-type-not-implemented = 不明なチャネルタイプ · 実装されていません
 
@@ -426,7 +426,7 @@ channel-menu-context-remove-from-favorites = お気に入りから削除
 # Context: context
 channel-menu-context-unmute-channel = チャンネルのミュートを解除する
 # Context: context
-channel-menu-context-until-i-turn-it-back-on = 再び電源を入れるまで
+channel-menu-context-until-i-turn-it-back-on = ミュート解除するまで
 # Context: show
 channel-menu-delete-category-confirm = { $name } を削除しますか?そのチャネルはサーバー内に残ります。これを元に戻すことはできません。
 # Context: show
@@ -610,7 +610,7 @@ channel-permissions-add-manage-webhooks = Webhook の管理
 # Context: add
 channel-permissions-add-membership-permissions = メンバーシップの許可
 # Context: add
-channel-permissions-add-mention-everyone-here-and-all-roles = @everyone、@here、およびすべての役割について言及します
+channel-permissions-add-mention-everyone-here-and-all-roles = @everyone、@here、およびすべてのロールについて言及します
 # Context: add
 channel-permissions-add-move-members = メンバーの移動
 # Context: add
@@ -644,13 +644,13 @@ channel-permissions-add-view-channels = チャンネルを見る
 # Context: add
 channel-permissions-add-voice-channel-permissions = 音声チャネルの許可
 # Context: permissions
-channel-permissions-permissions-remove-role-member = 役割/メンバーの削除
+channel-permissions-permissions-remove-role-member = ロール/メンバーの削除
 # Context: show
 channel-permissions-show-advanced-permissions = 高度な権限
 # Context: show
-channel-permissions-show-only-selected-members-and-roles-can-view-this-category-synced = 選択されたメンバーと役割のみがこのカテゴリを表示できます。同期されたチャンネルはその権限に従います。
+channel-permissions-show-only-selected-members-and-roles-can-view-this-category-synced = 選択されたメンバーとロールのみがこのカテゴリを表示できます。同期されたチャンネルはその権限に従います。
 # Context: show
-channel-permissions-show-only-selected-members-and-roles-can-view-this-channel-administrators = 選択されたメンバーと役割のみがこのチャンネルを表示できます。管理者はアクセス権を保持します。
+channel-permissions-show-only-selected-members-and-roles-can-view-this-channel-administrators = 選択されたメンバーとロールのみがこのチャンネルを表示できます。管理者はアクセス権を保持します。
 # Context: show
 channel-permissions-show-private-category = プライベートカテゴリー
 # Context: show
@@ -660,15 +660,15 @@ channel-permissions-show-you-need-manage-channels-and-manage-permissions-to-chan
 # Context: targets
 channel-permissions-targets-add-member = メンバーを追加
 # Context: targets
-channel-permissions-targets-add-role-or-member = + 役割またはメンバーを追加
+channel-permissions-targets-add-role-or-member = + ロールまたはメンバーを追加
 # Context: targets
 channel-permissions-targets-member = メンバー
 # Context: targets
 channel-permissions-targets-member-id = 会員ID
 # Context: targets
-channel-permissions-targets-role = 役割
+channel-permissions-targets-role = ロール
 # Context: targets
-channel-permissions-targets-roles-members = 役割/メンバー
+channel-permissions-targets-roles-members = ロール/メンバー
 # Context: targets
 channel-permissions-targets-search-roles-or-loaded-members = ロールまたはロードされたメンバーを検索する
 
@@ -696,7 +696,7 @@ components-select-refine-your-search-to-see-more-results = 検索を絞り込ん
 # Context: select
 components-select-search-options = 検索オプション
 # Context: select
-components-select-type-to-search-members-available-roles-and-channels-are-listed = メンバーを検索するには入力します。利用可能な役割とチャネルがリストされます
+components-select-type-to-search-members-available-roles-and-channels-are-listed = メンバーを検索するには入力します。利用可能なロールとチャネルがリストされます
 # Context: show_component
 components-show-component-reveal-spoiler-component = スポイラーコンポーネントを明らかにする
 # Context: show_component
@@ -722,7 +722,7 @@ contact-editor-show-could-not-load-the-note-your-existing-note-has-not = メモ�
 # Context: show
 contact-editor-show-enter-a-nickname = ニックネームを入力してください
 # Context: show
-contact-editor-show-friend-nickname = 友達のニックネーム
+contact-editor-show-friend-nickname = フレンドのニックネーム
 # Context: show
 contact-editor-show-loading-note = メモを読み込んでいます…
 # Context: show
@@ -742,7 +742,7 @@ contact-editor-show-save = 保存
 # Context: show
 contact-editor-show-saving = 保存中…
 # Context: show
-contact-editor-show-this-user-is-no-longer-a-confirmed-friend = このユーザーは確認済みの友達ではなくなりました。
+contact-editor-show-this-user-is-no-longer-a-confirmed-friend = このユーザーは確認済みのフレンドではなくなりました。
 
 ## crates/ui/src/design.rs
 # Context: account_row_with_remove
@@ -1469,7 +1469,7 @@ join-server-audience-back = 戻る
 # Context: audience
 join-server-audience-for-a-club-or-community = クラブやコミュニティの場合
 # Context: audience
-join-server-audience-for-me-and-my-friends = 私と私の友達にとって
+join-server-audience-for-me-and-my-friends = 私と私のフレンドにとって
 # Context: audience
 join-server-audience-for-now = 今のところ。
 # Context: audience
@@ -1623,7 +1623,7 @@ main-restoring-checking-your-saved-login = 保存されたログイン情報を�
 # Context: restoring
 main-restoring-connecting-to-discord = Discordに接続する
 # Context: restoring_screen
-main-restoring-screen-serein = セレイン
+main-restoring-screen-serein = Serein
 # Context: restoring_screen
 main-restoring-screen-use-a-different-account = 別のアカウントを使用する
 # Context: restoring_screen
@@ -1635,7 +1635,7 @@ main-sign-in-consent-i-own-this-account-and-authorize-this-session = 私はこ�
 # Context: sign_in_consent
 main-sign-in-consent-passwords-and-2fa-stay-on-discord-s-own-login-page = パスワードと 2FA は Discord 自体のログイン ページに残ります。セッション トークンのみが OS 資格情報ストアに保持されます。
 # Context: sign_in_disclosures
-main-sign-in-disclosures-about-serein = セレインについて
+main-sign-in-disclosures-about-serein = Sereinについて
 # Context: sign_in_disclosures
 main-sign-in-disclosures-connect-with-this-token = このトークンで接続します
 # Context: sign_in_disclosures
@@ -1653,7 +1653,7 @@ main-sign-in-header-sign-in-with-your-discord-account-to-get-started = 始める
 # Context: sign_in_header
 main-sign-in-header-welcome-back = おかえり
 # Context: sign_in_header
-main-sign-in-header-welcome-to-serein = セレインへようこそ
+main-sign-in-header-welcome-to-serein = Sereinへようこそ
 # Context: sign_in_preview
 main-sign-in-status-copy-failure-details = エラーの詳細をコピー
 main-sign-in-preview-explore-the-offline-preview = オフライン プレビューを確認する
@@ -1662,7 +1662,7 @@ main-sign-in-preview-sample-conversations-no-discord-connection = 会話例。 D
 # Context: sign_in_screen
 main-sign-in-screen-independent-and-open-source-not-affiliated-with-discord = 独立したオープンソース。 Discordとは関係ありません。
 # Context: sign_in_screen
-main-sign-in-screen-serein = セレイン
+main-sign-in-screen-serein = Serein
 # Context: ui
 main-ui-cancel = キャンセル
 # Context: ui
@@ -1705,17 +1705,17 @@ message-menu-copy = メッセージをコピーする
 
 ## crates/ui/src/messaging_permissions.rs
 # Context: heading
-messaging-permissions-heading-connected-games = コネクテッド ゲームでのメッセージング
+messaging-permissions-heading-connected-games = 連携済みのゲームでのメッセージング
 # Context: heading
 messaging-permissions-heading-direct-messages = ダイレクトメッセージ (DM) の権限
 # Context: heading
-messaging-permissions-heading-friend-requests = 友達リクエストの権限
+messaging-permissions-heading-friend-requests = フレンド申請の権限
 # Context: heading
 messaging-permissions-heading-spam = スパムフィルター
 # Context: messaging_permissions_settings
 messaging-permissions-messaging-permissions-settings-all-servers = すべてのサーバー
 # Context: messaging_permissions_settings
-messaging-permissions-messaging-permissions-settings-allow-friend-requests-from = ～からの友達リクエストを許可する
+messaging-permissions-messaging-permissions-settings-allow-friend-requests-from = フレンド申請を許可:
 # Context: messaging_permissions_settings
 messaging-permissions-messaging-permissions-settings-automatically-filter-suspected-spam-messages = スパムの疑いのあるメッセージを自動的にフィルタリングする
 # Context: messaging_permissions_settings
@@ -1723,7 +1723,7 @@ messaging-permissions-messaging-permissions-settings-changes-apply-to-all-curren
 # Context: messaging_permissions_settings
 messaging-permissions-messaging-permissions-settings-changes-apply-to-this-server-only = 変更はこのサーバーにのみ適用されます。
 # Context: messaging_permissions_settings
-messaging-permissions-messaging-permissions-settings-control-who-can-send-you-friend-requests-and-how-they = 誰があなたに友達リクエストを送信できるか、そしてそのリクエストがどのように表示されるかを制御します。
+messaging-permissions-messaging-permissions-settings-control-who-can-send-you-friend-requests-and-how-they = あなたにフレンド申請を送信できるユーザーと、その表示方法を管理します。
 # Context: messaging_permissions_settings
 messaging-permissions-messaging-permissions-settings-discord-can-filter-out-some-messages-that-contain-spam-these = Discord ではスパムを含む一部のメッセージを除外できます。これらのメッセージはスパム受信箱に送られます。
 # Context: messaging_permissions_settings
@@ -1749,11 +1749,11 @@ messaging-permissions-messaging-permissions-settings-your-account-uses-a-custom-
 # Context: messaging_permissions_settings
 messaging-permissions-messaging-permissions-settings-your-account-uses-a-custom-spam-filter-setting-select-an = お使いのアカウントはカスタムのスパム フィルター設定を使用しています。置き換えるオプションを選択します。
 # Context: label
-messaging-permissions-tab-connected-games = コネクテッド ゲーム
+messaging-permissions-tab-connected-games = 連携済みのゲーム
 # Context: label
 messaging-permissions-tab-direct-messages = ダイレクトメッセージ
 # Context: label
-messaging-permissions-tab-friend-requests = 友達リクエスト
+messaging-permissions-tab-friend-requests = フレンド申請
 # Context: label
 messaging-permissions-tab-spam = スパムフィルター
 
@@ -1801,7 +1801,7 @@ notifications-notification-rail-notifications = 通知
 # Context: notification_rail
 notifications-notification-rail-open = 開ける
 # Context: notification_rail
-notifications-notification-rail-unread = 、未読
+notifications-notification-rail-unread = 未読
 
 ## crates/ui/src/pending.rs
 # Context: show
@@ -1975,7 +1975,7 @@ post-menu-noun-action-post = 役職
 # Context: noun
 post-menu-noun-post = 役職
 # Context: noun
-post-menu-noun-thread = 糸
+post-menu-noun-thread = スレッド
 # Context: show
 post-menu-show-cancel = キャンセル
 # Context: show
@@ -2071,7 +2071,7 @@ profiles-activity-verb-streaming = ストリーミング
 # Context: activity_verb
 profiles-activity-verb-watching = 見てる
 # Context: more_menu
-profiles-more-menu-add-friend-nickname = 友達のニックネームを追加
+profiles-more-menu-add-friend-nickname = フレンドのニックネームを追加
 # Context: more_menu
 profiles-more-menu-add-note = メモを追加
 # Context: more_menu
@@ -2093,7 +2093,7 @@ profiles-show-note-only-you = あなただけに表示されます
 # Context: more_menu
 profiles-more-menu-copy-webhook-id = Webhook ID をコピーする
 # Context: more_menu
-profiles-more-menu-edit-friend-nickname = 友達のニックネームを編集する
+profiles-more-menu-edit-friend-nickname = フレンドのニックネームを編集する
 # Context: more_menu
 profiles-more-menu-mute = ミュート
 # Context: more_menu
@@ -2101,15 +2101,15 @@ profiles-more-menu-mute-this-direct-message-s-notifications-until-you-unmute-it 
 # Context: more_menu
 profiles-more-menu-no-open-direct-message-with-this-user = このユーザーとのオープンなダイレクト メッセージはありません。
 # Context: more_menu
-profiles-more-menu-private-nicknames-are-available-for-confirmed-friends = 確認済みの友達にはプライベートニックネームが利用可能です。
+profiles-more-menu-private-nicknames-are-available-for-confirmed-friends = 確認済みのフレンドにはプライベートニックネームが利用可能です。
 # Context: more_menu
-profiles-more-menu-remove-friend = 友達を削除する
+profiles-more-menu-remove-friend = フレンドを削除する
 # Context: more_menu
 profiles-more-menu-unblock = ブロックを解除する
 # Context: more_menu
 profiles-more-menu-unmute = ミュートを解除する
 # Context: role_chips
-profiles-role-chips-show-remaining-roles = 残りの役割を表示
+profiles-role-chips-show-remaining-roles = 残りのロールを表示
 # Context: server_tag
 profiles-server-tag-server = サーバ
 # Context: server_tag
@@ -2121,9 +2121,9 @@ profiles-show-copy-webhook-id = Webhook ID をコピーする
 # Context: show
 profiles-show-edit-profile = プロフィールの編集
 # Context: show
-profiles-show-loading-profile = プロファイルを読み込み中…
+profiles-show-loading-profile = プロフィールを読み込み中…
 # Context: show
-profiles-show-member-since = 以来のメンバー
+profiles-show-member-since = メンバーになった日
 # Context: show
 profiles-show-message = メッセージ
 # Context: show
@@ -2133,19 +2133,19 @@ profiles-show-mutual-friend = 共通のフレンド
 # Context: show
 profiles-show-mutual-friends = 共通のフレンド
 # Context: show
-profiles-show-mutual-server = 相互サーバー
+profiles-show-mutual-server = 共通のサーバー
 # Context: show
-profiles-show-mutual-servers = 相互サーバー
+profiles-show-mutual-servers = 共通のサーバー
 # Context: show
 profiles-show-offline-preview-synthetic = オフラインプレビュー・合成
 # Context: show
 profiles-show-retry-profile = プロファイルを再試行する
 # Context: show
-profiles-show-roles = 役割
+profiles-show-roles = ロール
 # Context: show
-profiles-show-server = サーバ
+profiles-show-server = サーバー
 # Context: show
-profiles-show-server-2 = サーバ
+profiles-show-server-2 = サーバー
 # Context: show
 profiles-show-server-tag = サーバータグ
 # Context: show
@@ -2185,9 +2185,9 @@ reading-chat-reading-settings-animate-gifs = GIF をアニメーション化す�
 # Context: chat_reading_settings
 reading-chat-reading-settings-animate-wheel-movement-and-jumps-between-messages = ホイールの動きをアニメーション化し、メッセージ間をジャンプします。
 # Context: chat_reading_settings
-reading-chat-reading-settings-ask-before-opening-external-links-discord-links-always-open-directly = 外部リンクを開く前に質問してください。 Discord のリンクは常に直接開きます。
+reading-chat-reading-settings-ask-before-opening-external-links-discord-links-always-open-directly = 外部リンクを開く前に確認をします。 Discord のリンクは常に直接開きます。
 # Context: chat_reading_settings
-reading-chat-reading-settings-confirm-before-opening-links = リンクを開く前に確認してください
+reading-chat-reading-settings-confirm-before-opening-links = リンクを開く前に確認する
 # Context: chat_reading_settings
 reading-chat-reading-settings-hide-image-and-gif-links = 画像とGIFのリンクを非表示にする
 # Context: chat_reading_settings
@@ -2249,7 +2249,7 @@ screen-body-refresh = リフレッシュ
 # Context: body
 screen-body-screen-or-window = スクリーンまたはウィンドウ
 # Context: body
-screen-body-send-what-your-mac-plays-along-with-the-screen-serein = Mac で再生しているものを画面とともに送信します。セレイン自身の通話音声は省略されています。
+screen-body-send-what-your-mac-plays-along-with-the-screen-serein = Mac で再生しているものを画面とともに送信します。Serein自身の通話音声は省略されています。
 # Context: body
 screen-body-share-sound-from-other-apps-even-when-sharing-one-window = 1 つのウィンドウを共有している場合でも、他のアプリのサウンドを共有します。 Serein 自身の音声は省略されています。
 # Context: body
@@ -2561,7 +2561,7 @@ server-admin-member-menu-message = メッセージ
 # Context: member_menu
 server-admin-member-menu-profile = プロフィール
 # Context: member_menu
-server-admin-member-menu-roles = 役割
+server-admin-member-menu-roles = ロール
 # Context: member_menu
 server-admin-member-menu-unblock = ブロックを解除する
 # Context: members
@@ -2677,7 +2677,7 @@ server-audit-log-action-text-deleted-messages = 削除されたメッセージ
 # Context: action_text
 server-audit-log-action-text-deleted-onboarding-prompt = オンボーディング プロンプトが削除されました
 # Context: action_text
-server-audit-log-action-text-deleted-role = 削除された役割
+server-audit-log-action-text-deleted-role = 削除されたロール
 # Context: action_text
 server-audit-log-action-text-deleted-scheduled-event = 予定されていたイベントを削除しました
 # Context: action_text
@@ -2731,13 +2731,13 @@ server-audit-log-action-text-updated-invite = 招待状を更新しました
 # Context: action_text
 server-audit-log-action-text-updated-member = メンバーを更新しました
 # Context: action_text
-server-audit-log-action-text-updated-member-roles = メンバーの役割を更新しました
+server-audit-log-action-text-updated-member-roles = メンバーのロールを更新しました
 # Context: action_text
 server-audit-log-action-text-updated-onboarding = オンボーディングの更新
 # Context: action_text
 server-audit-log-action-text-updated-onboarding-prompt = オンボーディングプロンプトを更新しました
 # Context: action_text
-server-audit-log-action-text-updated-role = 更新された役割
+server-audit-log-action-text-updated-role = 更新されたロール
 # Context: action_text
 server-audit-log-action-text-updated-scheduled-event = 予定されているイベントを更新しました
 # Context: action_text
@@ -2897,15 +2897,15 @@ server-invite-expiry-label-never = 一度もない
 # Context: picker
 server-invite-picker-edit-link = リンクを編集します。
 # Context: picker
-server-invite-picker-friends-are-not-available-yet = 友達はまだ利用できません。
+server-invite-picker-friends-are-not-available-yet = フレンドはまだ利用できません。
 # Context: picker
 server-invite-picker-invite = 招待する
 # Context: picker
 server-invite-picker-no-eligible-channel = 対象となるチャンネルがありません
 # Context: picker
-server-invite-picker-no-friends-match-your-search = 検索に一致する友達はいません。
+server-invite-picker-no-friends-match-your-search = 検索に一致するフレンドはいません。
 # Context: picker
-server-invite-picker-no-friends-to-invite-yet-share-the-link-below = 招待できる友達はまだいません。以下のリンクを共有してください。
+server-invite-picker-no-friends-to-invite-yet-share-the-link-below = 招待できるフレンドはまだいません。以下のリンクを共有してください。
 # Context: picker
 server-invite-picker-or-send-a-server-invite-link-to-a-friend = または、サーバーの招待リンクを友人に送信します
 # Context: picker
@@ -2913,7 +2913,7 @@ server-invite-picker-recipients-will-land-in = 受信者は次の場所に着陸
 # Context: picker
 server-invite-picker-retry = リトライ
 # Context: picker
-server-invite-picker-search-for-friends = 友達を探す
+server-invite-picker-search-for-friends = フレンドを探す
 # Context: picker
 server-invite-picker-sending = 送信中…
 # Context: picker
@@ -2939,11 +2939,11 @@ server-invite-settings-grant-temporary-membership = 一時的なメンバーシ�
 # Context: settings
 server-invite-settings-max-number-of-uses = 最大使用回数
 # Context: settings
-server-invite-settings-temporary-members-are-automatically-kicked-when-they-disconnect-unless-a = 一時的なメンバーは、役割が割り当てられていない限り、切断されると自動的にキックされます
+server-invite-settings-temporary-members-are-automatically-kicked-when-they-disconnect-unless-a = 一時的なメンバーは、ロールが割り当てられていない限り、切断されると自動的にキックされます
 # Context: show
 server-invite-show-control-how-long-this-link-lasts-and-how-many-people = このリンクの存続期間と使用できる人数を制御します。
 # Context: show
-server-invite-show-share-a-link-so-friends-can-join-this-server = リンクを共有すると、友達がこのサーバーに参加できるようになります。
+server-invite-show-share-a-link-so-friends-can-join-this-server = リンクを共有すると、フレンドがこのサーバーに参加できるようになります。
 # Context: uses_label
 server-invite-uses-label-no-limit = 制限なし
 
@@ -3021,15 +3021,15 @@ server-roles-display-allow-anyone-to-mention-this-role = 誰でもこのロー�
 # Context: display
 server-roles-display-choose-image = 画像の選択
 # Context: display
-server-roles-display-custom-role-color = カスタム役割の色
+server-roles-display-custom-role-color = カスタムロールの色
 # Context: display
-server-roles-display-default-role-color = デフォルトの役割の色
+server-roles-display-default-role-color = デフォルトのロールの色
 # Context: display
 server-roles-display-display-role-members-separately-from-online-members = ロール メンバーをオンライン メンバーとは別に表示する
 # Context: display
-server-roles-display-members-use-the-color-of-their-highest-role-on-the = メンバーは、役割リストで最も高い役割の色を使用します。
+server-roles-display-members-use-the-color-of-their-highest-role-on-the = メンバーは、ロールリストで最も高いロールの色を使用します。
 # Context: display
-server-roles-display-members-with-permission-to-mention-all-roles-can-always-mention = すべての役割について言及する権限を持つメンバーは、いつでもこの役割について言及できます。
+server-roles-display-members-with-permission-to-mention-all-roles-can-always-mention = すべてのロールについて言及する権限を持つメンバーは、いつでもこのロールについて言及できます。
 # Context: display
 server-roles-display-preparing = 準備中...
 # Context: display
@@ -3037,25 +3037,25 @@ server-roles-display-preview = プレビュー
 # Context: display
 server-roles-display-remove-icon = アイコンを削除
 # Context: display
-server-roles-display-role-name = 役割名
+server-roles-display-role-name = ロール名
 # Context: display
 server-roles-display-sample-message = サンプルメッセージ
 # Context: display
 server-roles-display-second-gradient-color = 2番目のグラデーションカラー
 # Context: display
-server-roles-display-this-is-how-members-with-this-role-appear = この役割を持つメンバーが登場します。
+server-roles-display-this-is-how-members-with-this-role-appear = このロールを持つメンバーが登場します。
 # Context: display
 server-roles-display-upload-an-image-under-256-kib-or-choose-a-unicode = 256 KiB 未満の画像をアップロードするか、Unicode 絵文字を選択してください。少なくとも 64×64 ピクセルをお勧めします。
 # Context: editor
-server-roles-editor-back-to-roles = ← 役割に戻る
+server-roles-editor-back-to-roles = ← ロールに戻る
 # Context: editor
-server-roles-editor-choose-role = 役割の選択
+server-roles-editor-choose-role = ロールの選択
 # Context: editor
-server-roles-editor-delete-role = 役割の削除
+server-roles-editor-delete-role = ロールの削除
 # Context: editor
 server-roles-editor-display = 画面
 # Context: editor
-server-roles-editor-edit-role = 役割の編集
+server-roles-editor-edit-role = ロールの編集
 # Context: editor
 server-roles-editor-permissions = 権限
 # Context: editor
@@ -3070,15 +3070,15 @@ server-roles-list-create-role = ロールの作成
 server-roles-list-default-permissions-everyone-applies-to-all-server-members = デフォルトの権限
     @everyone · すべてのサーバーメンバーに適用されます
 # Context: list
-server-roles-list-delete-role = 役割の削除
+server-roles-list-delete-role = ロールの削除
 # Context: list
-server-roles-list-edit-role = 役割の編集
+server-roles-list-edit-role = ロールの編集
 # Context: list
-server-roles-list-edit-role-2 = 役割の編集
+server-roles-list-edit-role-2 = ロールの編集
 # Context: list
 server-roles-list-members = メンバー
 # Context: list
-server-roles-list-members-use-the-color-of-the-highest-role-they-have = メンバーは、このリストで最も高い役割の色を使用します。役割をドラッグして順序を変更します。
+server-roles-list-members-use-the-color-of-the-highest-role-they-have = メンバーは、このリストで最も高いロールの色を使用します。ロールをドラッグして順序を変更します。
 # Context: list
 server-roles-list-move-down = 下に移動
 # Context: list
@@ -3086,11 +3086,11 @@ server-roles-list-move-up = 上に移動
 # Context: list
 server-roles-list-role-actions = ロールアクション
 # Context: list
-server-roles-list-roles = 役割
+server-roles-list-roles = ロール
 # Context: list
-server-roles-list-roles-2 = 役割
+server-roles-list-roles-2 = ロール
 # Context: list
-server-roles-list-search-roles = 役割の検索
+server-roles-list-search-roles = ロールの検索
 # Context: list
 server-roles-list-unknown = 未知
 # Context: list
@@ -3100,7 +3100,7 @@ server-roles-members-add = 追加
 # Context: members
 server-roles-members-add-members = メンバーを追加する
 # Context: members
-server-roles-members-back-to-role-members = 役割メンバーに戻る
+server-roles-members-back-to-role-members = ロールメンバーに戻る
 # Context: members
 server-roles-members-first-page = 最初のページ
 # Context: members
@@ -3118,11 +3118,11 @@ server-roles-navigation-create-role = ロールの作成
 # Context: permissions
 server-roles-permissions-search-permissions = 検索権限
 # Context: save_bar
-server-roles-save-bar-saving-role = 役割を保存中…
+server-roles-save-bar-saving-role = ロールを保存中…
 # Context: show
-server-roles-show-loading-roles = 役割を読み込んでいます...
+server-roles-show-loading-roles = ロールを読み込んでいます...
 # Context: show
-server-roles-show-reload-roles = 役割のリロード
+server-roles-show-reload-roles = ロールのリロード
 # Context: show
 server-roles-show-saving = 保存中...
 
@@ -3212,9 +3212,9 @@ server-settings-page-invites = 招待します
 # Context: label
 server-settings-page-members = メンバー
 # Context: label
-server-settings-page-profile = サーバープロファイル
+server-settings-page-profile = サーバープロフィール
 # Context: label
-server-settings-page-roles = 役割
+server-settings-page-roles = ロール
 # Context: label
 server-settings-page-stickers = ステッカー
 # Context: preview
@@ -3246,7 +3246,7 @@ server-settings-profile-form-remove-icon = アイコンを削除
 # Context: profile_form
 server-settings-profile-form-remove-trait = 特性を削除する
 # Context: profile_form
-server-settings-profile-form-server-profile = サーバープロファイル
+server-settings-profile-form-server-profile = サーバープロフィール
 # Context: profile_form
 server-settings-profile-form-tell-the-world-a-bit-about-this-server = このサーバーについて少し世界に知らせてください。
 # Context: profile_form
@@ -3352,7 +3352,7 @@ settings-account-page-removes-the-saved-login-and-clears-this-account-s-local = 
 # Context: account_page
 settings-account-page-session = セッション
 # Context: account_page
-settings-account-page-signed-in-with-your-discord-account = Discord アカウントでサインインしている
+settings-account-page-signed-in-with-your-discord-account = Discord アカウントでサインイン中
 # Context: activity_settings
 settings-activity-settings-detect-running-games-and-ask-discord-to-share-them-as = 実行中のゲームを検出し、アクティビティとして共有するように Discord に依頼します。
 # Context: activity_settings
@@ -3606,11 +3606,11 @@ stickers-show-this-sticker-is-unavailable-with-the-current-connection-or-permiss
 # Context: show
 switcher-show-close = 閉じる
 # Context: show
-switcher-show-conversations-and-friends = 会話と友達
+switcher-show-conversations-and-friends = 会話とフレンド
 # Context: show
 switcher-show-finish-composing-text-before-opening-or-closing = テキストを開く前または閉じる前に、テキストの作成を完了してください。
 # Context: show
-switcher-show-no-conversations-or-friends-match = 会話も友達も一致しない
+switcher-show-no-conversations-or-friends-match = 会話もフレンドも一致しない
 # Context: show
 switcher-show-results = 結果
 # Context: show
@@ -3983,7 +3983,7 @@ updates-update-settings-update-checks-are-disabled-in-debug-builds = デバッ�
 
 ## crates/ui/src/user_menu.rs
 # Context: contents
-user-menu-contents-add-friend-nickname = 友達のニックネームを追加
+user-menu-contents-add-friend-nickname = フレンドのニックネームを追加
 # Context: contents
 user-menu-contents-add-note = メモを追加
 # Context: contents
@@ -3991,7 +3991,7 @@ user-menu-contents-block = ブロック
 # Context: contents
 user-menu-contents-close-dm = DMを閉じる
 # Context: contents
-user-menu-contents-edit-friend-nickname = 友達のニックネームを編集する
+user-menu-contents-edit-friend-nickname = フレンドのニックネームを編集する
 # Context: contents
 user-menu-contents-mention = 言及
 # Context: contents
@@ -4005,7 +4005,7 @@ user-menu-contents-pin-dm = DMを固定
 # Context: contents
 user-menu-contents-pinned-direct-messages-are-saved-on-this-device = 固定されたダイレクト メッセージはこのデバイスに保存されます。
 # Context: contents
-user-menu-contents-private-nicknames-are-available-for-confirmed-friends = 確認済みの友達にはプライベートニックネームが利用可能です。
+user-menu-contents-private-nicknames-are-available-for-confirmed-friends = 確認済みのフレンドにはプライベートニックネームが利用可能です。
 # Context: contents
 user-menu-contents-profile = プロフィール
 # Context: contents
@@ -4023,7 +4023,7 @@ verification-show-cancel = キャンセル
 # Context: show
 verification-show-complete-the-check-to-join-this-server = このサーバーに参加するにはチェックを完了してください。
 # Context: show
-verification-show-complete-the-check-to-send-this-friend-request = この友達リクエストを送信するにはチェックを完了してください。
+verification-show-complete-the-check-to-send-this-friend-request = このフレンド申請を送信するにはチェックを完了してください。
 # Context: show
 verification-show-discord-requires-a-security-check-before-you-can-add-this = Discord では、この人を追加する前にセキュリティチェックが必要です。
 # Context: show
@@ -4794,8 +4794,8 @@ page-language-time = 言語と時刻
 description-language-time = 表示言語と時刻の表示形式。
 time-format-group = 時刻の形式
 time-format-auto = 自動
-time-format-12-hour = 12時間制
-time-format-24-hour = 24時間制
+time-format-12-hour = 12時間
+time-format-24-hour = 24時間
 profiles-status-edit = ステータスを編集
 profiles-status-clear = ステータスを消去
 send-throttled-title = ちょっと待って、刺激が強すぎ
